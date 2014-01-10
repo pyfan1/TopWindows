@@ -1,0 +1,12 @@
+# Mercurial ignore file for TopWindows
+
+syntax: glob
+
+*.pyc
+*.pyo
+
+Lib/
+Scripts/
+log/
+build/
+dist/
